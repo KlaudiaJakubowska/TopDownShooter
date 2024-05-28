@@ -1,0 +1,1370 @@
+﻿Log file open, 05/28/24 09:29:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EGOTopShooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.714483
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i3-4030U CPU @ 1.90GHz, GPU: Intel(R) HD Graphics Family
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.05.28-07.29.30:649][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.05.28-07.29.30:649][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.05.28-07.29.30:649][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Engine.ini]
+[2024.05.28-07.29.30:649][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.05.28-07.29.30:649][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Engine.ini]
+[2024.05.28-07.29.30:649][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Engine.ini]
+[2024.05.28-07.29.30:649][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.05.28-07.29.30:649][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Engine.ini]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.05.28-07.29.30:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Engine.ini]
+[2024.05.28-07.29.30:650][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Engine.ini]
+[2024.05.28-07.29.30:665][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:665][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.05.28-07.29.30:665][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.05.28-07.29.30:665][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:665][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.05.28-07.29.30:665][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:665][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.05.28-07.29.30:665][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.05.28-07.29.30:665][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.05.28-07.29.30:665][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.05.28-07.29.30:665][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.05.28-07.29.30:665][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.05.28-07.29.30:666][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.05.28-07.29.30:667][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.05.28-07.29.30:668][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.05.28-07.29.30:669][  0]LogInit: Selected Device Profile: [Windows]
+[2024.05.28-07.29.30:669][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.05.28-07.29.30:669][  0]LogHAL: Display: Platform has ~ 8 GB [8506531840 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.05.28-07.29.30:669][  0]LogInit: Going up to parent DeviceProfile []
+[2024.05.28-07.29.30:669][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:669][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.05.28-07.29.30:669][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.05.28-07.29.30:669][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:669][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.05.28-07.29.30:669][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:669][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.05.28-07.29.30:669][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.05.28-07.29.30:669][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.05.28-07.29.30:669][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.05.28-07.29.30:669][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.05.28-07.29.30:669][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.05.28-07.29.30:669][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.05.28-07.29.30:669][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.05.28-07.29.30:669][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.05.28-07.29.30:670][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.05.28-07.29.30:671][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Scalability.ini]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.05.28-07.29.30:672][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.05.28-07.29.30:673][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.05.28-07.29.30:673][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.05.28-07.29.30:673][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.05.28-07.29.30:673][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Engine.ini]
+[2024.05.28-07.29.30:673][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Config/Windows/Editor.ini]
+[2024.05.28-07.29.30:673][  0]LogInit: Computer: DESKTOP-C9D5HLN
+[2024.05.28-07.29.30:673][  0]LogInit: User: klaud
+[2024.05.28-07.29.30:673][  0]LogInit: CPU Page size=4096, Cores=2
+[2024.05.28-07.29.30:673][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.05.28-07.29.30:673][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2024.05.28-07.29.30:673][  0]LogMemory: Platform Memory Stats for Windows
+[2024.05.28-07.29.30:673][  0]LogMemory: Process Physical Memory: 141.36 MB used, 141.36 MB peak
+[2024.05.28-07.29.30:673][  0]LogMemory: Process Virtual Memory: 119.04 MB used, 119.04 MB peak
+[2024.05.28-07.29.30:673][  0]LogMemory: Physical Memory: 4975.47 MB used,  3136.99 MB free, 8112.46 MB total
+[2024.05.28-07.29.30:673][  0]LogMemory: Virtual Memory: 134211928.00 MB used,  5796.27 MB free, 134217728.00 MB total
+[2024.05.28-07.29.30:687][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.05.28-07.29.30:748][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.05.28-07.29.30:749][  0]LogInit: Using OS detected language (pl-PL).
+[2024.05.28-07.29.30:749][  0]LogInit: Using OS detected locale (pl-PL).
+[2024.05.28-07.29.30:761][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2024.05.28-07.29.30:762][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2024.05.28-07.29.30:762][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2024.05.28-07.29.30:762][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2024.05.28-07.29.30:763][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2024.05.28-07.29.30:763][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2024.05.28-07.29.30:764][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2024.05.28-07.29.30:764][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2024.05.28-07.29.30:767][  0]LogInit: Setting process to per monitor DPI aware
+[2024.05.28-07.29.30:794][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.05.28-07.29.30:826][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.05.28-07.29.30:826][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.05.28-07.29.31:303][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2024.05.28-07.29.31:314][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.05.28-07.29.31:314][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.05.28-07.29.31:314][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.05.28-07.29.31:314][  0]LogD3D11RHI: D3D11 adapters:
+[2024.05.28-07.29.31:441][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R5 M330' (Feature Level 11_0)
+[2024.05.28-07.29.31:441][  0]LogD3D11RHI:       2039/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2024.05.28-07.29.31:456][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2024.05.28-07.29.31:456][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.05.28-07.29.31:461][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.05.28-07.29.31:461][  0]LogD3D11RHI:       0/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.05.28-07.29.31:461][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2024.05.28-07.29.31:461][  0]LogD3D11RHI:     Description : AMD Radeon (TM) R5 M330
+[2024.05.28-07.29.31:461][  0]LogD3D11RHI:     VendorId    : 1002
+[2024.05.28-07.29.31:461][  0]LogD3D11RHI:     DeviceId    : 6660
+[2024.05.28-07.29.31:461][  0]LogD3D11RHI:     SubSysId    : 390c17aa
+[2024.05.28-07.29.31:461][  0]LogD3D11RHI:     Revision    : 0083
+[2024.05.28-07.29.31:461][  0]LogD3D11RHI:     DedicatedVideoMemory : 2138304512 bytes
+[2024.05.28-07.29.31:461][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.05.28-07.29.31:461][  0]LogD3D11RHI:     SharedSystemMemory : 4253265920 bytes
+[2024.05.28-07.29.31:461][  0]LogD3D11RHI:     AdapterLuid : 0 75678
+[2024.05.28-07.29.31:474][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.05.28-07.29.31:474][  0]LogD3D11RHI:     GPU DeviceId: 0x6660 (for the marketing name, search the web for "GPU Device Id")
+[2024.05.28-07.29.31:474][  0]LogWindows: EnumDisplayDevices:
+[2024.05.28-07.29.31:474][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2024.05.28-07.29.31:476][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2024.05.28-07.29.31:477][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2024.05.28-07.29.31:478][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2024.05.28-07.29.31:478][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R5 M330
+[2024.05.28-07.29.31:478][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2024.05.28-07.29.31:478][  0]LogD3D11RHI:      Driver Date: Unknown
+[2024.05.28-07.29.31:478][  0]LogRHI: Texture pool is 1213 MB (70% of 1733 MB)
+[2024.05.28-07.29.31:509][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2024.05.28-07.29.31:509][  0]LogD3D11RHI:     Description : AMD Radeon (TM) R5 M330
+[2024.05.28-07.29.31:509][  0]LogD3D11RHI:     VendorId    : 1002
+[2024.05.28-07.29.31:509][  0]LogD3D11RHI:     DeviceId    : 6660
+[2024.05.28-07.29.31:509][  0]LogD3D11RHI:     SubSysId    : 390c17aa
+[2024.05.28-07.29.31:509][  0]LogD3D11RHI:     Revision    : 0083
+[2024.05.28-07.29.31:509][  0]LogD3D11RHI:     DedicatedVideoMemory : 2138304512 bytes
+[2024.05.28-07.29.31:509][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.05.28-07.29.31:509][  0]LogD3D11RHI:     SharedSystemMemory : 4253265920 bytes
+[2024.05.28-07.29.31:509][  0]LogD3D11RHI:     AdapterLuid : 0 75678
+[2024.05.28-07.29.31:578][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2024.05.28-07.29.31:578][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.05.28-07.29.31:578][  0]LogD3D11RHI: Async texture creation enabled
+[2024.05.28-07.29.31:578][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.05.28-07.29.31:615][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2024.05.28-07.29.32:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.05.28-07.29.32:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.05.28-07.29.32:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.05.28-07.29.32:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.05.28-07.29.32:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.05.28-07.29.32:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.05.28-07.29.32:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.05.28-07.29.32:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.05.28-07.29.32:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.05.28-07.29.32:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.05.28-07.29.32:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.05.28-07.29.32:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.05.28-07.29.32:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.05.28-07.29.32:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.05.28-07.29.32:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.05.28-07.29.32:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.05.28-07.29.32:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.05.28-07.29.32:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.05.28-07.29.32:836][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.05.28-07.29.32:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.05.28-07.29.32:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.05.28-07.29.32:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.05.28-07.29.32:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.05.28-07.29.32:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.05.28-07.29.32:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.05.28-07.29.32:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.05.28-07.29.33:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.05.28-07.29.33:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.05.28-07.29.33:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.05.28-07.29.33:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.05.28-07.29.33:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.05.28-07.29.33:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.05.28-07.29.33:088][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.05.28-07.29.33:109][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.05.28-07.29.33:215][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2024.05.28-07.29.33:303][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.05.28-07.29.33:304][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Intermediate/Shaders/WorkingDirectory/19832/).
+[2024.05.28-07.29.33:304][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/klaud/AppData/Local/Temp/UnrealShaderWorkingDir/8DC7CC4448A783185C8B8B8EC6A3F223/'.
+[2024.05.28-07.29.33:305][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.05.28-07.29.33:305][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.05.28-07.29.33:305][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.05.28-07.29.35:883][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.05.28-07.29.36:066][  0]LogDerivedDataCache: Loaded boot cache 0.18s 94MB C:/Users/klaud/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.05.28-07.29.36:066][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/klaud/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2024.05.28-07.29.36:067][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.05.28-07.29.36:067][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.05.28-07.29.36:067][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.05.28-07.29.36:067][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.05.28-07.29.36:108][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.05.28-07.29.36:108][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.05.28-07.29.36:108][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.05.28-07.29.36:128][  0]LogDerivedDataCache: Speed tests for C:/Users/klaud/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2024.05.28-07.29.36:128][  0]LogDerivedDataCache: Display: Performance to C:/Users/klaud/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.14ms. RandomReadSpeed=319.67MBs, RandomWriteSpeed=60.91MBs. Assigned SpeedClass 'Local'
+[2024.05.28-07.29.36:129][  0]LogDerivedDataCache: Using Local data cache path C:/Users/klaud/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.05.28-07.29.36:130][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.05.28-07.29.36:130][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.05.28-07.29.36:295][  0]LogSlate: Using FreeType 2.10.0
+[2024.05.28-07.29.36:296][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.05.28-07.29.36:374][  0]LogAssetRegistry: FAssetRegistry took 0.0073 seconds to start up
+[2024.05.28-07.29.37:167][  0]LogInit: Selected Device Profile: [Windows]
+[2024.05.28-07.29.37:167][  0]LogInit: Active device profile: [000001F44A579100][000001F43BE73680 49] Windows
+[2024.05.28-07.29.37:167][  0]LogInit: Profiles: [000001F44A579100][000001F43BE73680 49] Windows, [000001F44A54A700][000001F43BE7B800 49] WindowsNoEditor, [000001F44A57A200][000001F43BE83980 49] WindowsServer, [000001F44A549900][000001F44AF27B00 49] WindowsClient, [000001F44A579700][000001F44AF2A100 49] IOS, [000001F44A54A900][000001F43BE92280 49] iPadAir, [000001F44A57BC00][000001F43BE96400 49] iPadAir2, [000001F44A4D5400][000001F4476566C0 49] IPadPro, [000001F44A4D5500][000001F447652700 49] iPadAir3, [000001F44A54BA00][000001F44765A880 49] iPadAir4, [000001F44A4D6300][000001F449ACEA00 49] iPadMini2, [000001F44A54B100][000001F449AD2B80 49] iPadMini3, [000001F44A4D6F00][000001F449AD6D00 49] iPadMini4, [000001F44A549E00][000001F43BE76E40 49] iPadMini5, [000001F44A539000][000001F449ADB080 49] iPhone6, [000001F44A539100][000001F4497C50C0 49] iPodTouch6, [000001F44A57B900][000001F44B31F380 49] iPhone7, [000001F44A57A900][000001F44B31B3C0 49] iPodTouch7, [000001F44A4D5000][000001F43F0C7540 49] iPhone5S, [000001F44A57AF00][000001F44B33B6C0 49] iPhone6Plus, [000001F44A4D7600][000001F43F559840 49] iPhone6S, [000001F44A578C00][000001F44ACE39C0 49] iPhone6SPlus, [000001F44A579D00][000001F44ACF1B40 49] iPhone7Plus, [000001F44A538800][000001F44ACF4140 49] iPhoneSE, [000001F44A578400][000001F44ACF82C0 49] iPhone8, [000001F44A538900][000001F44ACFC440 49] iPhone8Plus, [000001F44A53AE00][000001F44AD005C0 49] iPhoneX, [000001F44A4D5D00][000001F44AD04740 49] iPhoneXS, [000001F44A53A700][000001F44AD1C8C0 49] iPhoneXSMax, [000001F44A4D5C00][000001F43F598A40 49] iPhoneXR, [000001F44A53A800][000001F43F5A0BC0 49] iPhone11, [000001F44A4D4F00][000001F44763ED40 49] iPhone11Pro, [000001F44A538B00][000001F447642EC0 49] iPhone11ProMax, [000001F44A4D4D00][000001F449ADF000 49] iPhoneSE2, [000001F44A538E00][000001F44764B140 49] iPhone12Mini, [000001F44A57B800][000001F44764F280 49] iPhone12, [000001F44A53B000][000001F44679F3C0 49] iPhone12Pro, [000001F44A57B700][000001F43F5A5540 49] iPhone12ProMax, [000001F44A539E00][000001F44B3116C0 49] iPadPro105, [000001F44A579300][000001F43F59D840 49] iPadPro129, [000001F44A53BE00][000001F44B3159C0 49] iPadPro97, [000001F44A579C00][000001F4467A3B40 49] iPadPro2_129, [000001F44A53A000][000001F4467A6140 49] iPad5, [000001F44A57A300][000001F4467AA2C0 49] iPad6, [000001F44A53BB00][000001F4467AE440 49] iPad7, [000001F44A579E00][000001F4467B25C0 49] iPad8, [000001F44A538A00][000001F4467B6740 49] iPadPro11, [000001F44A57A600][000001F4467BA8C0 49] iPadPro2_11, [000001F44A538F00][000001F4467BEA40 49] iPadPro3_129, [000001F44A57A800][000001F4467C2BC0 49] iPadPro4_129, [000001F44A53BC00][000001F447602D40 49] AppleTV, [000001F44A579A00][000001F447606EC0 49] AppleTV4K, [000001F44A53A600][000001F44760B040 49] TVOS, [000001F44A57A100][000001F447647180 49] Mac, [000001F44A53AF00][000001F44760F2C0 49] MacClient, [000001F44A57AA00][000001F447613400 49] MacNoEditor, [000001F44A53AC00][000001F447617540 49] MacServer, [000001F44A57B000][000001F44761F6C0 49] Linux, [000001F44A538400][000001F447623840 49] LinuxAArch64, [000001F44A578700][000001F4476279C0 49] LinuxNoEditor, [000001F44A53B700][000001F44762BB40 49] LinuxAArch64NoEditor, [000001F44A57BB00][000001F44762E140 49] LinuxClient, [000001F44A53B400][000001F4476322C0 49] LinuxAArch64Client, [000001F44A57BE00][000001F447636440 49] LinuxServer, [000001F44A538700][000001F44763A5C0 49] LinuxAArch64Server, [000001F44A579F00][000001F449A8A740 49] Android, [000001F44A53AA00][000001F449A8E8C0 49] Android_Low, [000001F44A57AD00][000001F449A92A40 49] Android_Mid, [000001F44A539F00][000001F449A96BC0 49] Android_High, [000001F44A57AB00][000001F449A9AD40 49] Android_Default, [000001F44A538100][000001F449A9EEC0 49] Android_Adreno4xx, [000001F44A578500][000001F449AA3040 49] Android_Adreno5xx_Low, [000001F44A539400][000001F449AA71C0 49] Android_Adreno5xx, [000001F44A57B400][000001F449AAB340 49] Android_Adreno6xx, [000001F44A53A300][000001F44761B480 49] Android_Adreno6xx_Vulkan, [000001F44A57BD00][000001F449AAF5C0 49] Android_Mali_T6xx, [000001F44A538200][000001F449AB3700 49] Android_Mali_T7xx, [000001F44A57B600][000001F449ABB880 49] Android_Mali_T8xx, [000001F44A53B200][000001F449ABFA00 49] Android_Mali_G71, [000001F44A4D7100][000001F449AC3B80 49] Android_Mali_G72, [000001F44A54AF00][000001F449AC6180 49] Android_Mali_G72_Vulkan, [000001F44A4D6B00][000001F449ACA300 49] Android_Mali_G76, [000001F44A548500][000001F446738480 49] Android_Mali_G76_Vulkan, [000001F44A4D4C00][000001F44673C600 49] Android_Mali_G77, [000001F44A548600][000001F446740780 49] Android_Mali_G77_Vulkan, [000001F44A4D6400][000001F446744900 49] Android_Mali_G78, [000001F44A548D00][000001F446748A80 49] Android_Mali_G78_Vulkan, [000001F44A4D7D00][000001F44674CC00 49] Android_Mali_G710, [000001F44A54AB00][000001F446750D80 49] Android_Mali_G710_Vulkan, [000001F44A4D6A00][000001F446754F00 49] Android_Vulkan_SM5, [000001F44A549A00][000001F446759080 49] Android_PowerVR_G6xxx, [000001F44A4D4500][000001F44675D200 49] Android_PowerVR_GT7xxx, [000001F44A548200][000001F446761380 49] Android_PowerVR_GE8xxx, [000001F44A4D7B00][000001F446765500 49] Android_PowerVR_GM9xxx, [000001F44A54A100][000001F449AB7640 49] Android_PowerVR_GM9xxx_Vulkan, [000001F44A4D5F00][000001F446769780 49] Android_TegraK1, [000001F44A548A00][000001F44676D8C0 49] Android_Unknown_Vulkan, [000001F44A4D7900][000001F446775A40 49] Lumin, [000001F44A549100][000001F446779BC0 49] Lumin_Desktop, [000001F44A4D6000][000001F44677C1C0 49] HoloLens, 
+[2024.05.28-07.29.37:524][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.05.28-07.29.37:524][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.05.28-07.29.37:524][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.05.28-07.29.37:524][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.05.28-07.29.37:524][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.05.28-07.29.37:572][  0]LogNetVersion: EGOTopShooter 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2027787143)
+[2024.05.28-07.29.39:035][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.05.28-07.29.39:205][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.05.28-07.29.39:224][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2024.05.28-07.29.39:225][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2024.05.28-07.29.39:225][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.05.28-07.29.40:282][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B61C2CB24CF17DA46508C385C65FE057 | Instance: 573E4EC841F9942463A02C9464D21422 (DESKTOP-C9D5HLN-19832).
+[2024.05.28-07.29.40:433][  0]LogPython: Using Python 3.7.7
+[2024.05.28-07.29.42:993][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.05.28-07.29.43:008][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.05.28-07.29.43:593][  0]SourceControl: Source control is disabled
+[2024.05.28-07.29.43:593][  0]SourceControl: Source control is disabled
+[2024.05.28-07.29.43:606][  0]SourceControl: Source control is disabled
+[2024.05.28-07.29.43:618][  0]SourceControl: Source control is disabled
+[2024.05.28-07.29.43:654][  0]SourceControl: Source control is disabled
+[2024.05.28-07.29.43:673][  0]LogUProjectInfo: Found projects:
+[2024.05.28-07.29.44:462][  0]LogOpenImageDenoise: OIDN starting up
+[2024.05.28-07.29.44:618][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.05.28-07.29.44:699][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.05.28-07.29.44:700][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.05.28-07.29.45:118][  0]LogCollectionManager: Loaded 0 collections in 0.005483 seconds
+[2024.05.28-07.29.45:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/Collections/' took 0.00s
+[2024.05.28-07.29.45:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Developers/klaud/Collections/' took 0.00s
+[2024.05.28-07.29.45:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Collections/' took 0.00s
+[2024.05.28-07.29.45:211][  0]LogOcInput: OculusInput pre-init called
+[2024.05.28-07.29.46:481][  0]LogEngine: Initializing Engine...
+[2024.05.28-07.29.46:509][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2024.05.28-07.29.46:511][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.05.28-07.29.46:512][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.05.28-07.29.46:514][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2024.05.28-07.29.46:908][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.05.28-07.29.46:936][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.05.28-07.29.46:975][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.05.28-07.29.46:988][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.05.28-07.29.46:989][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.05.28-07.29.46:990][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.05.28-07.29.46:991][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.05.28-07.29.46:991][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.28-07.29.46:991][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.28-07.29.46:991][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.28-07.29.46:991][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.28-07.29.46:991][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.28-07.29.46:991][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.28-07.29.46:991][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.28-07.29.46:991][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.28-07.29.46:992][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.28-07.29.46:992][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.28-07.29.46:992][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.28-07.29.46:992][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.28-07.29.47:041][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.28-07.29.47:041][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.05.28-07.29.47:150][  0]LogAudioMixer: Display: Using Audio Device Głośniki (Conexant SmartAudio HD)
+[2024.05.28-07.29.47:157][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.28-07.29.47:164][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.28-07.29.47:165][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.28-07.29.47:168][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.28-07.29.47:168][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.28-07.29.47:168][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.28-07.29.47:170][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.28-07.29.47:170][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.28-07.29.47:170][  0]LogInit: FAudioDevice initialized.
+[2024.05.28-07.29.47:170][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.05.28-07.29.47:170][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.05.28-07.29.47:787][  0]LogDerivedDataCache: Saved boot cache 0.62s 94MB C:/Users/klaud/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.05.28-07.29.47:788][  0]LogInit: Texture streaming: Enabled
+[2024.05.28-07.29.47:825][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2024.05.28-07.29.47:838][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.05.28-07.29.47:838][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.05.28-07.29.47:849][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.05.28-07.29.47:931][  0]LogInit: Transaction tracking system initialized
+[2024.05.28-07.29.47:996][  0]BlueprintLog: New page: Editor Load
+[2024.05.28-07.29.48:187][  0]LocalizationService: Localization service is disabled
+[2024.05.28-07.29.48:267][  0]TimingProfiler: Initialize
+[2024.05.28-07.29.48:268][  0]TimingProfiler: OnSessionChanged
+[2024.05.28-07.29.48:268][  0]LoadingProfiler: Initialize
+[2024.05.28-07.29.48:268][  0]LoadingProfiler: OnSessionChanged
+[2024.05.28-07.29.48:268][  0]NetworkingProfiler: Initialize
+[2024.05.28-07.29.48:268][  0]NetworkingProfiler: OnSessionChanged
+[2024.05.28-07.29.48:268][  0]MemoryProfiler: Initialize
+[2024.05.28-07.29.48:268][  0]MemoryProfiler: OnSessionChanged
+[2024.05.28-07.29.50:145][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.05.28-07.29.50:145][  0]LogCook: Display: Mobile HDR setting 1
+[2024.05.28-07.29.50:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/' took 0.01s
+[2024.05.28-07.29.51:650][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.05.28-07.29.51:662][  0]SourceControl: Source control is disabled
+[2024.05.28-07.29.51:662][  0]LogUnrealEdMisc: Loading editor; pre map load, took 24.965
+[2024.05.28-07.29.51:663][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.05.28-07.29.51:664][  0]LightingResults: New page: Lighting Build
+[2024.05.28-07.29.51:668][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-07.29.51:668][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-07.29.51:668][  0]MapCheck: New page: Map Check
+[2024.05.28-07.29.51:669][  0]LightingResults: New page: Lighting Build
+[2024.05.28-07.29.51:682][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.28-07.29.51:690][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2024.05.28-07.29.51:945][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2024.05.28-07.29.51:956][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2024.05.28-07.29.51:959][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2024.05.28-07.29.51:969][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.28-07.29.51:998][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.05.28-07.29.51:998][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.28-07.29.51:999][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,628ms to complete.
+[2024.05.28-07.29.51:999][  0]LogFileHelpers: Loading map 'Template_Default' took 0.337
+[2024.05.28-07.29.52:004][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.307
+[2024.05.28-07.29.52:292][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-07.29.52:314][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-07.29.52:337][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-07.29.52:359][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-07.29.52:441][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0333 seconds. Added 3822 classes and 928 folders.
+[2024.05.28-07.29.52:455][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2024.05.28-07.29.52:474][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.05.28-07.29.52:474][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:474][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.05.28-07.29.52:474][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:474][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2024.05.28-07.29.52:474][  0]LogPakFile: OnPakFileMounted2Time == 0.000179
+[2024.05.28-07.29.52:482][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.05.28-07.29.52:482][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:482][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.05.28-07.29.52:482][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:482][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2024.05.28-07.29.52:482][  0]LogPakFile: OnPakFileMounted2Time == 0.000146
+[2024.05.28-07.29.52:487][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.05.28-07.29.52:487][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:487][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.05.28-07.29.52:487][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:487][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2024.05.28-07.29.52:487][  0]LogPakFile: OnPakFileMounted2Time == 0.000135
+[2024.05.28-07.29.52:492][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.05.28-07.29.52:492][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:492][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.05.28-07.29.52:492][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:492][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2024.05.28-07.29.52:493][  0]LogPakFile: OnPakFileMounted2Time == 0.000347
+[2024.05.28-07.29.52:498][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.05.28-07.29.52:498][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:498][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.05.28-07.29.52:498][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:498][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2024.05.28-07.29.52:498][  0]LogPakFile: OnPakFileMounted2Time == 0.000164
+[2024.05.28-07.29.52:503][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.05.28-07.29.52:503][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:503][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.05.28-07.29.52:503][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:504][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2024.05.28-07.29.52:504][  0]LogPakFile: OnPakFileMounted2Time == 0.000152
+[2024.05.28-07.29.52:508][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.05.28-07.29.52:508][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:508][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.05.28-07.29.52:508][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:508][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2024.05.28-07.29.52:508][  0]LogPakFile: OnPakFileMounted2Time == 0.000124
+[2024.05.28-07.29.52:513][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.05.28-07.29.52:513][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:513][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.05.28-07.29.52:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2024.05.28-07.29.52:513][  0]LogPakFile: OnPakFileMounted2Time == 0.000120
+[2024.05.28-07.29.52:520][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.05.28-07.29.52:521][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:521][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.05.28-07.29.52:521][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:521][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2024.05.28-07.29.52:521][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2024.05.28-07.29.52:549][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.05.28-07.29.52:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:549][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.05.28-07.29.52:549][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:549][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2024.05.28-07.29.52:550][  0]LogPakFile: OnPakFileMounted2Time == 0.000289
+[2024.05.28-07.29.52:554][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.05.28-07.29.52:554][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:554][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.05.28-07.29.52:554][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:554][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2024.05.28-07.29.52:554][  0]LogPakFile: OnPakFileMounted2Time == 0.000129
+[2024.05.28-07.29.52:561][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.05.28-07.29.52:561][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:561][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.05.28-07.29.52:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2024.05.28-07.29.52:561][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2024.05.28-07.29.52:567][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.05.28-07.29.52:567][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:568][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.05.28-07.29.52:568][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:568][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2024.05.28-07.29.52:568][  0]LogPakFile: OnPakFileMounted2Time == 0.000136
+[2024.05.28-07.29.52:572][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.05.28-07.29.52:573][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:573][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.05.28-07.29.52:573][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:573][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2024.05.28-07.29.52:573][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2024.05.28-07.29.52:577][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.05.28-07.29.52:577][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.05.28-07.29.52:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2024.05.28-07.29.52:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000123
+[2024.05.28-07.29.52:583][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.05.28-07.29.52:583][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:583][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.05.28-07.29.52:584][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:584][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2024.05.28-07.29.52:584][  0]LogPakFile: OnPakFileMounted2Time == 0.000172
+[2024.05.28-07.29.52:592][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.05.28-07.29.52:592][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:592][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.05.28-07.29.52:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.05.28-07.29.52:592][  0]LogPakFile: OnPakFileMounted2Time == 0.000124
+[2024.05.28-07.29.52:598][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.05.28-07.29.52:598][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:598][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.05.28-07.29.52:598][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2024.05.28-07.29.52:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000155
+[2024.05.28-07.29.52:606][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.05.28-07.29.52:606][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:606][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.05.28-07.29.52:606][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:606][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2024.05.28-07.29.52:606][  0]LogPakFile: OnPakFileMounted2Time == 0.000143
+[2024.05.28-07.29.52:613][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.05.28-07.29.52:613][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:613][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.05.28-07.29.52:613][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:613][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2024.05.28-07.29.52:613][  0]LogPakFile: OnPakFileMounted2Time == 0.000133
+[2024.05.28-07.29.52:619][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.05.28-07.29.52:619][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:620][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.05.28-07.29.52:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2024.05.28-07.29.52:620][  0]LogPakFile: OnPakFileMounted2Time == 0.000137
+[2024.05.28-07.29.52:626][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.05.28-07.29.52:626][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:626][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.05.28-07.29.52:626][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:626][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2024.05.28-07.29.52:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000150
+[2024.05.28-07.29.52:633][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.05.28-07.29.52:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.05.28-07.29.52:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2024.05.28-07.29.52:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000123
+[2024.05.28-07.29.52:640][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.05.28-07.29.52:640][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:640][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.05.28-07.29.52:640][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:641][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2024.05.28-07.29.52:641][  0]LogPakFile: OnPakFileMounted2Time == 0.000137
+[2024.05.28-07.29.52:648][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.05.28-07.29.52:648][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:648][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.05.28-07.29.52:648][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:648][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2024.05.28-07.29.52:648][  0]LogPakFile: OnPakFileMounted2Time == 0.000152
+[2024.05.28-07.29.52:655][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.05.28-07.29.52:655][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.05.28-07.29.52:655][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.05.28-07.29.52:655][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.05.28-07.29.52:655][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2024.05.28-07.29.52:655][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2024.05.28-07.29.53:101][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2024.05.28-07.29.53:111][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 2 classes and 0 folders.
+[2024.05.28-07.29.53:269][  0]LogSlate: Took 0.000395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.28-07.29.53:282][  0]LogSlate: Took 0.010304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.28-07.29.53:287][  0]LogSlate: Took 0.000697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.05.28-07.29.53:668][  0]LogRenderer: Reallocating scene render targets to support 820x412 Format 10 NumSamples 1 (Frame:1).
+[2024.05.28-07.29.54:087][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2024.05.28-07.29.54:087][  0]LogLoad: (Engine Initialization) Total time: 27.39 seconds
+[2024.05.28-07.29.54:087][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.05.28-07.29.54:169][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.05.28-07.29.54:261][  2]LogAssetRegistry: Asset discovery search completed in 17.8885 seconds
+[2024.05.28-07.29.54:282][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2024.05.28-07.29.54:326][  2]LogSlate: Took 0.003962 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.28-07.29.55:172][ 38]LogSlate: Took 0.000564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.28-07.30.04:105][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.05.28-07.30.04:846][407]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-07.30.04:846][407]Cmd: MAP LOAD FILE="../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.05.28-07.30.04:847][407]LightingResults: New page: Lighting Build
+[2024.05.28-07.30.04:847][407]LoadErrors: New page: Loading map: EgoTop.umap
+[2024.05.28-07.30.04:850][407]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-07.30.04:851][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-07.30.04:852][407]MapCheck: New page: Map Check
+[2024.05.28-07.30.04:852][407]LightingResults: New page: Lighting Build
+[2024.05.28-07.30.04:876][407]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.28-07.30.04:947][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.05.28-07.30.04:951][407]LogAudio: Display: Audio Device (ID: 1) registered with world 'EgoTop'.
+[2024.05.28-07.30.04:976][407]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.28-07.30.04:976][407]LogAIModule: Creating AISystem for world EgoTop
+[2024.05.28-07.30.05:006][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.05.28-07.30.05:033][407]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.28-07.30.05:034][407]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,434ms to complete.
+[2024.05.28-07.30.05:034][407]LogFileHelpers: Loading map 'EgoTop' took 0.188
+[2024.05.28-07.30.46:573][ 70]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bluepints/BP_FPSChar_01.BP_FPSChar_01
+[2024.05.28-07.30.47:093][ 70]LogBlueprintEditor: Perf: 0.4 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2024.05.28-07.30.47:093][ 70]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2024.05.28-07.30.47:542][ 70]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 126 classes and 0 folders.
+[2024.05.28-07.30.50:552][ 70]LogSlate: Took 0.004459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.28-07.30.50:796][ 71]LogSlate: Took 0.005588 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.28-07.33.06:735][ 30]LogSlate: Window 'BP_FPSChar_01' being destroyed
+[2024.05.28-07.38.44:994][215]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-07.38.45:133][215]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2024.05.28-07.38.45:228][215]LogSlate: Took 0.002339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.05.28-07.38.45:820][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluepints/BP_FPSChar_01" FILE="../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset" SILENT=true
+[2024.05.28-07.38.45:889][248]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/BP_FPSChar_01AFF854E749616E060AD5F6BE287EA3F4.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset'
+[2024.05.28-07.38.45:957][248]AssetCheck: New page: Asset Save: BP_FPSChar_01
+[2024.05.28-07.38.45:958][248]LogContentValidation: Display: Validating Blueprint /Game/Bluepints/BP_FPSChar_01.BP_FPSChar_01
+[2024.05.28-07.38.47:381][384]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2024.05.28-07.38.47:452][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.28-07.38.47:478][384]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/EgoTop215F97254305D8FD463F91B8466945E1.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap'
+[2024.05.28-07.38.47:514][384]LogFileHelpers: Saving map 'EgoTop' took 0.110
+[2024.05.28-07.38.47:532][384]AssetCheck: New page: Asset Save: EgoTop
+[2024.05.28-07.38.47:532][384]LogContentValidation: Display: Validating World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-07.40.52:217][893]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-07.40.52:352][893]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2024.05.28-07.40.53:535][979]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2024.05.28-07.40.53:616][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.05.28-07.40.53:639][979]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/EgoTop5AC509F84E7B9662EF44B9AD8DDEEF85.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap'
+[2024.05.28-07.40.53:654][979]LogFileHelpers: Saving map 'EgoTop' took 0.088
+[2024.05.28-07.40.53:711][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluepints/BP_FPSChar_01" FILE="../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset" SILENT=true
+[2024.05.28-07.40.53:747][979]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/BP_FPSChar_014DED8AEB42C834641834DFA37C3C02F0.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset'
+[2024.05.28-07.40.53:773][979]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-07.40.53:773][979]LogContentValidation: Display: Validating Blueprint /Game/Bluepints/BP_FPSChar_01.BP_FPSChar_01
+[2024.05.28-07.40.53:774][979]LogContentValidation: Display: Validating World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-07.42.21:683][267]LogEditorTransaction: Undo Move Node
+[2024.05.28-07.42.22:358][294]LogEditorTransaction: Undo Move Node
+[2024.05.28-07.42.23:045][349]LogEditorTransaction: Undo Create Pin Link
+[2024.05.28-07.42.32:363][174]LogEditorTransaction: Undo Create Pin Link
+[2024.05.28-07.43.13:360][642]LogEditorTransaction: Undo Function Dropped on Graph
+[2024.05.28-07.44.28:946][881]LogUObjectHash: Compacting FUObjectHashTables data took   8.66ms
+[2024.05.28-07.44.29:029][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.28-07.44.29:058][881]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/EgoTop3CA31D57489EF25DA0B48CA0DC4535CC.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap'
+[2024.05.28-07.44.29:083][881]LogFileHelpers: Saving map 'EgoTop' took 0.110
+[2024.05.28-07.44.29:150][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluepints/BP_FPSChar_01" FILE="../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset" SILENT=true
+[2024.05.28-07.44.29:209][881]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/BP_FPSChar_01F97314A843B0F9156E9E0D9424FBAB5F.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset'
+[2024.05.28-07.44.30:166][881]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-07.44.30:166][881]LogContentValidation: Display: Validating Blueprint /Game/Bluepints/BP_FPSChar_01.BP_FPSChar_01
+[2024.05.28-07.44.30:166][881]LogContentValidation: Display: Validating World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-07.44.30:187][882]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-07.44.30:324][882]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2024.05.28-07.44.30:678][899]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-07.44.30:815][899]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2024.05.28-07.46.21:306][973]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-07.46.21:418][973]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2024.05.28-07.46.22:639][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2024.05.28-07.46.22:709][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.28-07.46.22:729][ 91]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/EgoTop93C1D6A844AB5F1EB1A8CDA8E75FF527.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap'
+[2024.05.28-07.46.22:743][ 91]LogFileHelpers: Saving map 'EgoTop' took 0.075
+[2024.05.28-07.46.22:799][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluepints/BP_FPSChar_01" FILE="../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset" SILENT=true
+[2024.05.28-07.46.22:836][ 91]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/BP_FPSChar_01AF85CDEC4D0A6793756FA39E0D2216E9.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset'
+[2024.05.28-07.46.22:862][ 91]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-07.46.22:862][ 91]LogContentValidation: Display: Validating Blueprint /Game/Bluepints/BP_FPSChar_01.BP_FPSChar_01
+[2024.05.28-07.46.22:862][ 91]LogContentValidation: Display: Validating World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-07.49.51:585][307]LogEditorTransaction: Undo Move Node
+[2024.05.28-07.49.52:381][351]LogEditorTransaction: Undo Split Struct Pin
+[2024.05.28-07.51.26:196][648]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-07.51.26:301][648]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2024.05.28-07.51.57:398][904]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-07.51.57:501][904]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2024.05.28-07.51.58:643][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2024.05.28-07.51.58:714][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.28-07.51.58:734][ 13]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/EgoTopAADEDD4140AABAC9C9C9A0BE0172DF9E.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap'
+[2024.05.28-07.51.58:750][ 13]LogFileHelpers: Saving map 'EgoTop' took 0.081
+[2024.05.28-07.51.58:809][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluepints/BP_FPSChar_01" FILE="../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset" SILENT=true
+[2024.05.28-07.51.58:851][ 13]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/BP_FPSChar_01E8BA31E14850716E09B22D94A905F7E5.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset'
+[2024.05.28-07.51.58:878][ 13]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-07.51.58:878][ 13]LogContentValidation: Display: Validating Blueprint /Game/Bluepints/BP_FPSChar_01.BP_FPSChar_01
+[2024.05.28-07.51.58:878][ 13]LogContentValidation: Display: Validating World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-07.52.51:932][ 81]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-07.52.52:035][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2024.05.28-07.52.53:161][167]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2024.05.28-07.52.53:242][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.28-07.52.53:262][167]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/EgoTop12293F8648C50CF41323CDAFFE2BC9EC.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap'
+[2024.05.28-07.52.53:277][167]LogFileHelpers: Saving map 'EgoTop' took 0.079
+[2024.05.28-07.52.53:335][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluepints/BP_FPSChar_01" FILE="../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset" SILENT=true
+[2024.05.28-07.52.53:375][167]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/BP_FPSChar_01CFC8B0774486E988165F0781A23E011F.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset'
+[2024.05.28-07.52.53:403][167]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-07.52.53:403][167]LogContentValidation: Display: Validating Blueprint /Game/Bluepints/BP_FPSChar_01.BP_FPSChar_01
+[2024.05.28-07.52.53:403][167]LogContentValidation: Display: Validating World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-07.53.24:395][454]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-07.53.24:501][454]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2024.05.28-07.53.25:686][564]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2024.05.28-07.53.25:759][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.28-07.53.25:779][564]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/EgoTop97A90F1945B7965375EC27924949AEDA.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap'
+[2024.05.28-07.53.25:794][564]LogFileHelpers: Saving map 'EgoTop' took 0.077
+[2024.05.28-07.53.25:851][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluepints/BP_FPSChar_01" FILE="../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset" SILENT=true
+[2024.05.28-07.53.25:893][564]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/BP_FPSChar_01708C6C1A468B73223B18AA9057E1707A.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset'
+[2024.05.28-07.53.25:917][564]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-07.53.25:917][564]LogContentValidation: Display: Validating Blueprint /Game/Bluepints/BP_FPSChar_01.BP_FPSChar_01
+[2024.05.28-07.53.25:917][564]LogContentValidation: Display: Validating World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-07.56.49:989][130]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-07.56.50:089][130]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2024.05.28-07.56.51:559][257]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2024.05.28-07.56.51:631][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.28-07.56.51:650][257]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/EgoTop7BFC11074C563F0E318199AF05C29AC3.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap'
+[2024.05.28-07.56.51:664][257]LogFileHelpers: Saving map 'EgoTop' took 0.077
+[2024.05.28-07.56.51:721][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluepints/BP_FPSChar_01" FILE="../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset" SILENT=true
+[2024.05.28-07.56.51:762][257]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/BP_FPSChar_01DB29DDDD427A593919793E819F91372A.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset'
+[2024.05.28-07.56.51:783][257]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-07.56.51:783][257]LogContentValidation: Display: Validating Blueprint /Game/Bluepints/BP_FPSChar_01.BP_FPSChar_01
+[2024.05.28-07.56.51:783][257]LogContentValidation: Display: Validating World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-07.57.06:765][724]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.28-07.57.06:786][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.28-07.57.06:787][724]PIE: New page: PIE session: EgoTop (28 maj 2024, 11:57:06)
+[2024.05.28-07.57.06:797][724]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.05.28-07.57.06:800][724]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.05.28-07.57.06:802][724]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EgoTop
+[2024.05.28-07.57.06:809][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006547s)
+[2024.05.28-07.57.06:811][724]LogAIModule: Creating AISystem for world EgoTop
+[2024.05.28-07.57.06:813][724]LogPlayLevel: PIE: World Init took: (0.004257s)
+[2024.05.28-07.57.06:813][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EgoTop.EgoTop to /Game/Levels/UEDPIE_0_EgoTop.EgoTop (0.011118s)
+[2024.05.28-07.57.06:862][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2024.05.28-07.57.06:867][724]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.28-07.57.06:867][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.28-07.57.06:867][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.28-07.57.06:867][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.28-07.57.06:867][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.28-07.57.06:867][724]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.28-07.57.06:867][724]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.28-07.57.06:867][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.28-07.57.06:867][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.28-07.57.06:868][724]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.28-07.57.06:868][724]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.28-07.57.06:868][724]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.28-07.57.06:868][724]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.28-07.57.06:876][724]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.28-07.57.06:876][724]LogAudioMixer: Display: 1: FrontRight
+[2024.05.28-07.57.06:893][724]LogAudioMixer: Display: Using Audio Device Głośniki (Conexant SmartAudio HD)
+[2024.05.28-07.57.06:894][724]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.28-07.57.06:894][724]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.28-07.57.06:894][724]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.28-07.57.06:894][724]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.28-07.57.06:895][724]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.28-07.57.06:895][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.28-07.57.06:896][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.28-07.57.06:896][724]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.28-07.57.06:896][724]LogInit: FAudioDevice initialized.
+[2024.05.28-07.57.06:896][724]LogAudio: Display: Audio Device (ID: 2) registered with world 'EgoTop'.
+[2024.05.28-07.57.06:915][724]LogLoad: Game class is 'GameModeBase'
+[2024.05.28-07.57.06:931][724]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EgoTop.EgoTop up for play (max tick rate 0) at 2024.05.28-09.57.06
+[2024.05.28-07.57.06:952][724]LogWorld: Bringing up level for play took: 0.023999
+[2024.05.28-07.57.06:954][724]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2024.05.28-07.57.06:986][724]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2024.05.28-07.57.06:992][724]PIE: Server logged in
+[2024.05.28-07.57.06:996][724]PIE: Play in editor total start time 0,219 seconds.
+[2024.05.28-07.57.11:632][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-07.57.11:632][916]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EgoTop
+[2024.05.28-07.57.11:637][916]LogWorld: UWorld::CleanupWorld for EgoTop, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-07.57.11:638][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-07.57.11:663][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.28-07.57.11:671][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-07.57.11:729][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-07.57.11:735][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-07.57.11:738][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-07.57.11:789][916]LogUObjectHash: Compacting FUObjectHashTables data took   7.94ms
+[2024.05.28-07.57.11:822][917]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.05.28-07.57.15:111][ 62]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.28-07.57.15:124][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.28-07.57.15:124][ 62]PIE: New page: PIE session: EgoTop (28 maj 2024, 11:57:15)
+[2024.05.28-07.57.15:124][ 62]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EgoTop
+[2024.05.28-07.57.15:129][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005017s)
+[2024.05.28-07.57.15:131][ 62]LogAIModule: Creating AISystem for world EgoTop
+[2024.05.28-07.57.15:132][ 62]LogPlayLevel: PIE: World Init took: (0.002114s)
+[2024.05.28-07.57.15:132][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EgoTop.EgoTop to /Game/Levels/UEDPIE_0_EgoTop.EgoTop (0.007368s)
+[2024.05.28-07.57.15:198][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2024.05.28-07.57.15:198][ 62]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.28-07.57.15:199][ 62]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.28-07.57.15:199][ 62]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.28-07.57.15:199][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.28-07.57.15:199][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.28-07.57.15:199][ 62]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.28-07.57.15:199][ 62]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.28-07.57.15:199][ 62]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.28-07.57.15:199][ 62]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.28-07.57.15:199][ 62]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.28-07.57.15:199][ 62]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.28-07.57.15:199][ 62]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.28-07.57.15:199][ 62]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.28-07.57.15:204][ 62]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.28-07.57.15:204][ 62]LogAudioMixer: Display: 1: FrontRight
+[2024.05.28-07.57.15:216][ 62]LogAudioMixer: Display: Using Audio Device Głośniki (Conexant SmartAudio HD)
+[2024.05.28-07.57.15:217][ 62]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.28-07.57.15:217][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.28-07.57.15:217][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.28-07.57.15:218][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.28-07.57.15:218][ 62]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.28-07.57.15:218][ 62]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.28-07.57.15:220][ 62]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.28-07.57.15:220][ 62]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.28-07.57.15:220][ 62]LogInit: FAudioDevice initialized.
+[2024.05.28-07.57.15:220][ 62]LogAudio: Display: Audio Device (ID: 3) registered with world 'EgoTop'.
+[2024.05.28-07.57.15:234][ 62]LogLoad: Game class is 'GameModeBase'
+[2024.05.28-07.57.15:236][ 62]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EgoTop.EgoTop up for play (max tick rate 0) at 2024.05.28-09.57.15
+[2024.05.28-07.57.15:237][ 62]LogWorld: Bringing up level for play took: 0.001962
+[2024.05.28-07.57.15:237][ 62]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2024.05.28-07.57.15:242][ 62]PIE: Server logged in
+[2024.05.28-07.57.15:243][ 62]PIE: Play in editor total start time 0,122 seconds.
+[2024.05.28-07.57.18:681][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-07.57.18:681][230]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EgoTop
+[2024.05.28-07.57.18:681][230]LogWorld: UWorld::CleanupWorld for EgoTop, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-07.57.18:682][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-07.57.18:702][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.28-07.57.18:709][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-07.57.18:753][230]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.28-07.57.18:753][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-07.57.18:755][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-07.57.18:758][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.28-07.57.18:764][230]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2024.05.28-07.57.18:793][231]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.05.28-08.03.38:260][877]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::RInterpTo' [Nie można odnaleźć określonego modułu.]
+[2024.05.28-08.03.42:808][215]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::RInterpTo' [Nie można odnaleźć elementu.]
+[2024.05.28-08.04.31:984][746]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-08.04.31:998][746]LogBlueprint: Error: [AssetLog] C:\Users\klaud\Documents\GitHub\TopDownShooter\EGOTopShooter\Content\Bluepints\BP_FPSChar_01.uasset: [Compiler] The current value (0, 0, 0) of the ' New Rotation ' pin is invalid: 'New Rotation' in action 'Set Control Rotation' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.05.28-08.04.32:145][746]LogUObjectHash: Compacting FUObjectHashTables data took  10.90ms
+[2024.05.28-08.05.22:875][846]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-08.05.22:883][846]LogBlueprint: Error: [AssetLog] C:\Users\klaud\Documents\GitHub\TopDownShooter\EGOTopShooter\Content\Bluepints\BP_FPSChar_01.uasset: [Compiler] The current value (0, 0, 0) of the ' New Rotation ' pin is invalid: 'New Rotation' in action 'Set Control Rotation' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.05.28-08.05.22:999][846]LogUObjectHash: Compacting FUObjectHashTables data took   8.39ms
+[2024.05.28-08.05.46:489][226]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-08.05.46:617][226]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2024.05.28-08.05.47:873][289]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2024.05.28-08.05.47:968][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.28-08.05.47:989][289]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/EgoTop8610D5564126BC6B88B7E1A6027F7652.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap'
+[2024.05.28-08.05.48:004][289]LogFileHelpers: Saving map 'EgoTop' took 0.108
+[2024.05.28-08.05.48:054][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluepints/BP_FPSChar_01" FILE="../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset" SILENT=true
+[2024.05.28-08.05.48:102][289]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/BP_FPSChar_01ACC366EF45A734FA5228E5A74E24175E.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset'
+[2024.05.28-08.05.48:128][289]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-08.05.48:128][289]LogContentValidation: Display: Validating Blueprint /Game/Bluepints/BP_FPSChar_01.BP_FPSChar_01
+[2024.05.28-08.05.48:128][289]LogContentValidation: Display: Validating World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-08.06.41:769][243]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-08.06.41:904][243]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2024.05.28-08.06.42:720][280]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2024.05.28-08.06.42:802][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.28-08.06.42:822][280]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/EgoTopCB49ABAA449D2E3B00D7C58CF57BA3B6.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap'
+[2024.05.28-08.06.42:837][280]LogFileHelpers: Saving map 'EgoTop' took 0.092
+[2024.05.28-08.06.42:886][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluepints/BP_FPSChar_01" FILE="../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset" SILENT=true
+[2024.05.28-08.06.42:931][280]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/BP_FPSChar_01AD327440412A67A7B73D7EA4C50369A7.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset'
+[2024.05.28-08.06.42:958][280]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-08.06.42:958][280]LogContentValidation: Display: Validating Blueprint /Game/Bluepints/BP_FPSChar_01.BP_FPSChar_01
+[2024.05.28-08.06.42:959][280]LogContentValidation: Display: Validating World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-08.06.46:139][468]LogRenderer: Reallocating scene render targets to support 860x468 Format 10 NumSamples 1 (Frame:1).
+[2024.05.28-08.08.00:263][446]LogTexture: Display: Building textures: SightLens_maskB (OODLE_AutoDXT, 2048X2048)
+[2024.05.28-08.08.00:263][446]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.08.00:263][446]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.08.00:263][446]LogTexture: Display: Building textures: MagGunT2_section (OODLE_AutoDXT, 4096X4096)
+[2024.05.28-08.08.00:263][446]LogTexture: Display: Building textures: MagGun_Display_EM (OODLE_AutoDXT, 2048X2048)
+[2024.05.28-08.08.00:263][446]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.00:263][446]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.00:263][446]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.00:263][446]LogTexture: Display: Building textures: T_Rubber (OODLE_AutoDXT, 2048X2048)
+[2024.05.28-08.08.00:263][446]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.00:263][446]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.00:263][446]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.00:263][446]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.00:263][446]LogTexture: Display: Building textures: MagGun_01_N (OODLE_BC5, 4096X4096)
+[2024.05.28-08.08.00:263][446]LogTexture: Display: Building textures: MagGun_02_N (OODLE_BC5, 4096X4096)
+[2024.05.28-08.08.01:100][446]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.05.28-08.08.01:101][446]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.05.28-08.08.03:507][446]LogTexture: Display: Building textures: MagGunT1_section (OODLE_AutoDXT, 4096X4096)
+[2024.05.28-08.08.03:507][446]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.03:507][446]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.05.28-08.08.03:507][446]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.05.28-08.08.05:193][446]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.05.28-08.08.05:193][446]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.05.28-08.08.06:840][446]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.06:840][446]LogTexture: Display: Building textures: MagGun_Decals (OODLE_AutoDXT, 512X512)
+[2024.05.28-08.08.06:840][446]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.06:840][446]LogTexture: Display: Building textures: MagGunT2_shade (OODLE_AutoDXT, 4096X4096)
+[2024.05.28-08.08.08:758][446]LogTexture: Display: Building textures: T_PaintedMetal02 (OODLE_AutoDXT, 2048X2048)
+[2024.05.28-08.08.08:758][446]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.08.08:758][446]LogTexture: Display: Building textures: MagGunT1_shade (OODLE_AutoDXT, 4096X4096)
+[2024.05.28-08.08.08:758][446]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.16:343][446]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.08.16:343][446]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.08.16:343][446]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.19:949][446]LogTexture: Display: Building textures: T_PaintedMetal01_N (OODLE_BC5, 2048X2048)
+[2024.05.28-08.08.19:949][446]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.05.28-08.08.19:949][446]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.08.19:949][446]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.26:321][446]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.05.28-08.08.26:321][446]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.08.26:321][446]LogTexture: Display: Building textures: T_Metal_Metal02_D (OODLE_AutoDXT, 2048X2048)
+[2024.05.28-08.08.26:321][446]LogTexture: Display: Building textures: SightLens_maskA (OODLE_AutoDXT, 2048X2048)
+[2024.05.28-08.08.26:321][446]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.26:321][446]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.08.26:321][446]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.05.28-08.08.26:321][446]LogTexture: Display: Building textures: holo_layer_1_5 (OODLE_AutoDXT, 256X256)
+[2024.05.28-08.08.26:322][446]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.05.28-08.08.26:322][446]LogTexture: Display: Building textures: T_ExampleLayers_Metal02_N (OODLE_BC5, 2048X2048)
+[2024.05.28-08.08.26:322][446]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.05.28-08.08.26:322][446]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.05.28-08.08.26:322][446]LogMaterial: Display: Missing cached shadermap for MagGun_MatB in PCD3D_SM5, Default, SM5 (DDC key hash: DFE52A8967D5C33BC29CF86AF69768F1D16CB697), compiling. 
+[2024.05.28-08.08.26:741][446]LogShaderCompilers: Display: Submitted 97 shader compile jobs with 'Low' priority
+[2024.05.28-08.08.26:749][446]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 97
+[2024.05.28-08.08.26:749][446]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 87
+[2024.05.28-08.08.26:749][446]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 77
+[2024.05.28-08.08.26:749][446]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2024.05.28-08.08.26:749][446]LogMaterial: Display: Missing cached shadermap for MagGun_MatA in PCD3D_SM5, Default, SM5 (DDC key hash: 4250EAF28456DA2AD028EEE60E669A98F7EAC8EB), compiling. 
+[2024.05.28-08.08.27:186][446]LogShaderCompilers: Display: Submitted 97 shader compile jobs with 'Low' priority
+[2024.05.28-08.08.27:198][446]LogSkeletalMesh: Display: [AssetLog] C:\Users\klaud\Documents\GitHub\TopDownShooter\EGOTopShooter\Content\Weapons\Rifle.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2024.05.28-08.08.27:199][446]LogSkeletalMesh: Building Skeletal Mesh Rifle...
+[2024.05.28-08.08.27:295][446]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Weapons/Rifle.Rifle
+[2024.05.28-08.08.27:301][446]LogMaterial: Display: Missing cached shadermap for MagGun_SightLens_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7FEDC1459145DE9E7C293B003562E4622C822724), compiling. 
+[2024.05.28-08.08.27:436][446]LogShaderCompilers: Display: Submitted 24 shader compile jobs with 'Low' priority
+[2024.05.28-08.08.31:519][596]LogUObjectHash: Compacting FUObjectHashTables data took  12.64ms
+[2024.05.28-08.08.31:678][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.05.28-08.08.31:713][596]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/EgoTop14487D2F4C6210F2A11D8BBE861AA52F.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap'
+[2024.05.28-08.08.34:296][596]LogFileHelpers: Saving map 'EgoTop' took 2.718
+[2024.05.28-08.08.34:363][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluepints/BP_FPSChar_01" FILE="../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset" SILENT=true
+[2024.05.28-08.08.34:448][596]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/BP_FPSChar_01E3E5421844C7CDAF7955FC86B0910767.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset'
+[2024.05.28-08.08.34:508][596]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-08.08.34:508][596]LogContentValidation: Display: Validating Blueprint /Game/Bluepints/BP_FPSChar_01.BP_FPSChar_01
+[2024.05.28-08.08.34:509][596]LogContentValidation: Display: Validating World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-08.08.35:986][655]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-08.08.36:207][655]LogUObjectHash: Compacting FUObjectHashTables data took  12.17ms
+[2024.05.28-08.08.40:267][757]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2024.05.28-08.08.40:268][757]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.08.40:331][757]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.28-08.08.40:331][757]LogShaderCompilers: Display: Total job queries 218, among them cache hits 0 (0.00%)
+[2024.05.28-08.08.40:331][757]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 10 distinct outputs (100.00%)
+[2024.05.28-08.08.40:331][757]LogShaderCompilers: Display: RAM used: 0.04 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.01%
+[2024.05.28-08.08.40:331][757]LogShaderCompilers: Display: ================================================
+[2024.05.28-08.08.44:675][811]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2024.05.28-08.08.44:675][811]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.08.46:103][830]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2024.05.28-08.08.46:103][830]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.08.47:316][850]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2024.05.28-08.08.47:316][850]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.08.49:068][916]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-08.08.49:328][916]LogUObjectHash: Compacting FUObjectHashTables data took  15.56ms
+[2024.05.28-08.08.49:983][933]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2024.05.28-08.08.49:983][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.05.28-08.08.50:022][935]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 177
+[2024.05.28-08.08.50:022][935]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.08.50:408][942]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 167
+[2024.05.28-08.08.50:408][942]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.08.51:618][990]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 157
+[2024.05.28-08.08.51:618][990]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.09.10:228][710]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 147
+[2024.05.28-08.09.10:228][710]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.09.10:899][737]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 137
+[2024.05.28-08.09.10:899][737]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.09.11:546][763]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 127
+[2024.05.28-08.09.11:546][763]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.09.21:944][ 57]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 117
+[2024.05.28-08.09.21:944][ 57]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.09.30:933][330]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 107
+[2024.05.28-08.09.30:933][330]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.09.34:060][445]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 97
+[2024.05.28-08.09.34:060][445]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.09.39:187][579]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 87
+[2024.05.28-08.09.39:187][579]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.09.44:121][640]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 77
+[2024.05.28-08.09.44:121][640]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.09.45:648][659]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 67
+[2024.05.28-08.09.45:648][659]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.09.57:890][805]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 57
+[2024.05.28-08.09.57:890][805]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.09.58:346][810]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2024.05.28-08.09.58:346][810]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.10.05:584][932]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2024.05.28-08.10.05:584][932]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.10.09:912][ 90]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2024.05.28-08.10.09:912][ 90]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.10.13:878][171]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2024.05.28-08.10.13:878][171]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.10.16:417][266]LogUObjectHash: Compacting FUObjectHashTables data took  12.21ms
+[2024.05.28-08.10.16:595][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.05.28-08.10.16:627][266]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/EgoTopAD7F18CC4DC1F7BBA8B6E68FF6589445.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap'
+[2024.05.28-08.10.19:152][266]LogFileHelpers: Saving map 'EgoTop' took 2.678
+[2024.05.28-08.10.19:168][266]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2024.05.28-08.10.19:168][266]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.10.19:214][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluepints/BP_FPSChar_01" FILE="../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset" SILENT=true
+[2024.05.28-08.10.19:302][266]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/BP_FPSChar_018DB262B5499548312F766A853D9362F1.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset'
+[2024.05.28-08.10.20:407][266]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2024.05.28-08.10.20:407][266]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.10.20:407][266]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-08.10.20:407][266]LogContentValidation: Display: Validating Blueprint /Game/Bluepints/BP_FPSChar_01.BP_FPSChar_01
+[2024.05.28-08.10.20:407][266]LogContentValidation: Display: Validating World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-08.10.20:548][269]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-08.10.20:774][269]LogUObjectHash: Compacting FUObjectHashTables data took  10.24ms
+[2024.05.28-08.10.22:388][300]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2024.05.28-08.10.22:388][300]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.10.23:262][308]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2024.05.28-08.10.23:262][308]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.10.23:319][309]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2024.05.28-08.10.23:319][309]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.05.28-08.10.54:737][303]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Weapons/Rifle_Skeleton.Rifle_Skeleton
+[2024.05.28-08.10.54:766][303]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2024.05.28-08.10.54:783][303]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2024.05.28-08.10.54:971][303]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.05.28-08.10.55:146][303]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.28-08.10.55:162][303]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0011 seconds. Added 1 classes and 0 folders.
+[2024.05.28-08.10.56:582][304]LogRenderer: Reallocating scene render targets to support 860x584 Format 10 NumSamples 1 (Frame:1).
+[2024.05.28-08.11.10:310][739]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-08.11.10:310][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-08.11.15:165][872]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Marine/Marine_Skeleton.Marine_Skeleton
+[2024.05.28-08.11.15:174][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.28-08.11.15:635][872]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_FPSChar_01_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB_Marine_FPSChar_01_C_0
+	Function /Game/Bluepints/Animation/AB_Marine_FPSChar_01.AB_Marine_FPSChar_01_C:ExecuteUbergraph_AB_Marine_FPSChar_01:0040
+[2024.05.28-08.11.15:635][872]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_FPSChar_01_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB_Marine_FPSChar_01_C_0
+	Function /Game/Bluepints/Animation/AB_Marine_FPSChar_01.AB_Marine_FPSChar_01_C:ExecuteUbergraph_AB_Marine_FPSChar_01:00EA
+[2024.05.28-08.11.15:635][872]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_FPSChar_01_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB_Marine_FPSChar_01_C_0
+	Function /Game/Bluepints/Animation/AB_Marine_FPSChar_01.AB_Marine_FPSChar_01_C:ExecuteUbergraph_AB_Marine_FPSChar_01:017A
+[2024.05.28-08.11.15:635][872]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_FPSChar_01_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB_Marine_FPSChar_01_C_0
+	Function /Game/Bluepints/Animation/AB_Marine_FPSChar_01.AB_Marine_FPSChar_01_C:ExecuteUbergraph_AB_Marine_FPSChar_01:01AC
+[2024.05.28-08.11.17:964][916]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Marine/Marine.Marine
+[2024.05.28-08.11.17:973][916]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.28-08.11.33:795][425]LogUObjectHash: Compacting FUObjectHashTables data took  10.86ms
+[2024.05.28-08.11.33:951][425]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2024.05.28-08.11.33:972][425]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/EgoTop0017F85F48BC5010431280B8D9AAF24A.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap'
+[2024.05.28-08.11.33:988][425]LogFileHelpers: Saving map 'EgoTop' took 0.158
+[2024.05.28-08.11.34:042][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluepints/BP_FPSChar_01" FILE="../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset" SILENT=true
+[2024.05.28-08.11.34:090][425]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/BP_FPSChar_01966E578947ED8F927B91E0BFC3511186.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Bluepints/BP_FPSChar_01.uasset'
+[2024.05.28-08.11.34:113][425]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.28-08.11.34:113][425]LogContentValidation: Display: Validating Blueprint /Game/Bluepints/BP_FPSChar_01.BP_FPSChar_01
+[2024.05.28-08.11.34:113][425]LogContentValidation: Display: Validating World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-08.11.39:533][629]BlueprintLog: New page: Compile BP_FPSChar_01
+[2024.05.28-08.11.39:660][629]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2024.05.28-08.11.52:316][ 58]LogUObjectHash: Compacting FUObjectHashTables data took  12.27ms
+[2024.05.28-08.11.52:425][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.28-08.11.52:456][ 58]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Saved/EgoTop2047140D4F3F1DC1DE7822B246CCB24F.tmp' to '../../../../../../Users/klaud/Documents/GitHub/TopDownShooter/EGOTopShooter/Content/Levels/EgoTop.umap'
+[2024.05.28-08.11.52:473][ 58]LogFileHelpers: Saving map 'EgoTop' took 0.123
+[2024.05.28-08.11.52:498][ 58]AssetCheck: New page: Asset Save: EgoTop
+[2024.05.28-08.11.52:498][ 58]LogContentValidation: Display: Validating World /Game/Levels/EgoTop.EgoTop
+[2024.05.28-08.13.11:998][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.28-08.13.12:039][447]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-08.13.12:039][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-08.13.12:280][447]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-08.13.12:280][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-08.13.12:384][447]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-08.13.12:384][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-08.13.12:425][447]LogSlate: Window 'EGOTopShooter - Unreal Editor' being destroyed
+[2024.05.28-08.13.12:628][448]Cmd: QUIT_EDITOR
+[2024.05.28-08.13.12:628][448]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.28-08.13.12:639][448]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.28-08.13.13:599][448]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.28-08.13.13:599][448]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.28-08.13.13:599][448]LogAudio: Display: Audio Device unregistered from world 'EgoTop'.
+[2024.05.28-08.13.13:599][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-08.13.13:603][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.28-08.13.13:634][448]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.28-08.13.13:635][448]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.05.28-08.13.13:647][448]LogExit: Preparing to exit.
